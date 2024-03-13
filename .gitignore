@@ -1,0 +1,7 @@
+#โฟลเดอร์ที่เกี่ยวข้องกับ virtual environment ของ Python
+#จะช่วยลดขนาดของ Git repository และทำให้การทำงานร่วมกับ Conda และ Git มีประสิทธิภาพมากยิ่งขึ้น
+
+# Distribution / packaging
+envs/
+.vscode/
+
