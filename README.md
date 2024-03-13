@@ -1,8 +1,7 @@
 # OOP-Project
 # application title
 ### Korean Series2024
-   [**>>Click to go to my webSite<<**](https://koreanseries.streamlit.app/)
-  > ""ผมจะใช้ **Streamlit Community Cloud** ในการสร้างชื่อเว็บนั้นๆ โดยการแชร์ **[Public]** *เพื่อให้ทุกคนสามารถเข้าชมได้อย่างอิสระ""
+  > ""ผมจะใช้ **Streamlit Community Cloud apps** ในการสร้างชื่อเว็บและนำข้อมูลจาก Code Github  โดยการแชร์ **[Public]** *เพื่อให้ทุกคนสามารถเข้าชมได้อย่างอิสระ""
 
 ## author:  
   * ID: 66114540621
