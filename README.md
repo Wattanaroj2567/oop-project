@@ -21,7 +21,7 @@
   - มีช่องทางให้ติดต่อได้ที่ Github โดยตรง
 
 ## presentation: 
-* [**>>Canva<<**](https://www.canva.com/design/DAF_Z-HELiw/2Gxte3HqvWy_Cwe08015Jw/view?utm_content=DAF_Z-HELiw&utm_campaign=designshare&utm_medium=link&utm_source=editor) , ***ยังไม่แล้วเสร็จ***
+* [**>>Canva<<**](https://www.canva.com/design/DAF_Z-HELiw/2Gxte3HqvWy_Cwe08015Jw/view?utm_content=DAF_Z-HELiw&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
 
 ## video:
 * link (***"กำลังอยู่ระหว่างการจัดทำ"***).[**Public/ubu**]
