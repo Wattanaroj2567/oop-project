@@ -70,7 +70,7 @@ with tab1:
     st.image('./images/Koreanseries.jpg',caption='ภาพรวมของซีรีย์ทั้งหมดที่ถูกคัดสรรมาโดยเฉพาะ')
 
     #การกำกับปีที่ทำ
-    st.write(":copyright: Streamlit 2024 version 1.32.0:low_brightness:")
+    st.write("Copyright  :copyright: 2024 by OOP-Project **Wattanaroj Butdee** ")
 
 with tab2:
     st.header("**:clapper:10 อันดับมาแรงในปีนี้ 2024:thumbsup:**")
@@ -92,7 +92,7 @@ with tab2:
              st.video(VIDEO_URL)
              st.header(" ") #เว้นระหว่างความสูงส่วนต่อของเรื่อง
 #การกำกับปีที่ทำ
-    st.write(":copyright: Streamlit 2024 version 1.32.0:low_brightness:")
+    st.write("Copyright  :copyright: 2024 by OOP-Project **Wattanaroj Butdee** ")
 
 with tab3:
     st.subheader("การติดต่อ:calling:")
@@ -128,5 +128,5 @@ with tab3:
     st.write("**Korseries** :link: https://www.korseries.com/")
 
     #การกำกับปีที่ทำ
-    st.write(":copyright: Streamlit 2024 version 1.32.0:low_brightness:")
+    st.write("Copyright  :copyright: 2024 by OOP-Project **Wattanaroj Butdee** ")
 
